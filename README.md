@@ -149,7 +149,7 @@ IPL-Data-Analysis-Excel-Dashboard
 ```
 
 ---
-![Uploading Screenshot 2026-06-14 183357.png…]()
+
 
 
 ## 🎓 Learning Outcomes
