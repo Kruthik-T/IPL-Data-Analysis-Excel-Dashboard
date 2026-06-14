@@ -149,6 +149,7 @@ IPL-Data-Analysis-Excel-Dashboard
 ```
 
 ---
+<img width="1277" height="1020" alt="Screenshot 2026-06-14 183357" src="https://github.com/user-attachments/assets/e350f56f-030f-447c-b7a2-f73bbbbdb63d" />
 
 
 
